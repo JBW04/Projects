@@ -1,0 +1,3 @@
+C:/Users/kippe/OneDrive/Desktop/Projects/D&D Radom Charaters/cmake-build-debug/CMakeFiles/D_D_Radom_Charaters.dir
+C:/Users/kippe/OneDrive/Desktop/Projects/D&D Radom Charaters/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/kippe/OneDrive/Desktop/Projects/D&D Radom Charaters/cmake-build-debug/CMakeFiles/rebuild_cache.dir
